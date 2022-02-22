@@ -1,0 +1,240 @@
+*{
+    margin: 0%;
+}
+.header{
+    width: 100%;
+    height: 10vh;
+    margin:0;
+    box-shadow: 0px 2px 4px rgb(0 0 0 / 10%);
+    font-family: "Google Sans","Roboto",sans-serif;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: #1C2834;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    padding: px;
+        
+}
+
+.navbar{
+    position: absolute;
+    float: right;
+    padding: 30px;
+    text-size-adjust: 100px;
+   
+
+}
+li,a,i{
+    display: inline;
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+    font-family: "Google Sans","Roboto",sans-serif;
+    top: 0;
+    z-index: 1000;
+}
+.banner{
+    background-color: #0a1c2b;
+    width: 100%;
+    height: 7vh ;
+    color: white;
+    font-family: "Roboto",sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 0;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-align: center;
+    margin-top: 0;
+    line-height: 1.5;
+    top: -1px;
+
+}
+#a1{
+    color: rgb(6, 183, 236);
+}
+#img1{
+    position: absolute;
+    size: 20ch;
+    left: 10px;
+    top: -15px;
+    
+
+}
+.body{
+    width: 100%;
+    height: 100vh;
+    background-color: #0a1c2b ;
+    font-family: Roboto,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #14324a;
+    margin-bottom: auto;
+}
+.img2{
+    width: 100%;
+   /* float: left;
+    padding: left; */
+
+}
+.h1{
+    font-family: "Google Sans", "Roboto", sans-serif;
+    font-size: 10rem;
+    font-weight: 400;
+    color: white;
+    background-color: #0a1c2b ;
+    padding: 20px;
+    margin: 100%;
+}
+.section-middle{
+    background-color: #0a1c2b ;
+    width: 100%;
+    height: 50vh;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 0%;
+}
+.google{
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+.img3{
+    
+    max-width: 100%;
+    height: auto;
+    font-family: "Google Sans", "Roboto", sans-serif;
+    text-align: center;
+    padding: 64px 0 64px 0 !important;
+    vertical-align: middle;
+    border-style: none;
+    width: 210px;
+}
+
+    
+
+.btn{
+    background-color: transparent;
+    border: none;
+    color: rgb(71, 167, 245);
+    height: 0%;
+    padding: 20px;
+    
+}
+.p2{
+    opacity: 10px;
+    font-size: 20px;
+    color: #82878c;
+}
+.body2{
+
+    width: 100%;
+    height: 50vh;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 0%;
+    font-family: "Google Sans", "Roboto", sans-serif;
+    padding-bottom: 80px !important;
+    background-color: #0d1520;
+}
+.section3{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: left; 
+    position: relative;
+   /* max-width: 100%; */
+  /*  width: 1280px; */
+   /* margin: 0 auto; */
+    padding-right: 35px; 
+    padding-left: 35px;
+    font-family: "Google Sans", "Roboto", sans-serif;
+    
+}
+.img4{
+    width: 80px;
+    height: 80px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+.para1{
+    font-size: 16px;
+    color: #82878c;
+    line-height: 20px;
+}
+.section4{
+    font-family: Roboto,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #4A4A4A;
+    display: flex; 
+    width: 100%;
+    position: relative;
+    /* background-color: #14324a; */
+
+}
+.amg{
+    display: block;
+    width: 50%;
+}
+.body3{
+    width: 100%;
+}
+.img6{
+    width: 80px;
+    height: 80px;
+    margin-top: 50px;
+    border-radius: 50%;
+
+}
+.b3{
+    
+    width: 50%;
+
+}    
+.b3  {
+    margin-left: 50px
+} 
+
+.white-space{
+    width: 100%;
+    height: 57px;
+    background-color: white;
+}
+.footer{
+    width: 100%;
+    height: 90px;
+    /* position: relative; */
+    background-color: #1C2834;
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    /* z-index: 5; */
+    /* position: static; */
+}
+.ftr-section{
+    padding: 30px;
+    /* text-size-adjust: 100px; */
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+   /* font-size: large; */
+    word-spacing: 30px;
+    /* background-color: ; */
+}
+
+    
+
+    
+
+
+
+
+
